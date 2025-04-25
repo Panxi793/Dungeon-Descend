@@ -59,7 +59,4 @@ This game was developed using:
 - Pygame for game mechanics and rendering
 - Custom pixel art assets
 - Custom sound effects and music
-
-## License
-
-This project is available under the [MIT License](LICENSE). 
+ 
